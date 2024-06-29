@@ -133,3 +133,12 @@
    font-size: 20px;
    padding:10px;
 }
+
+.login-text {
+   color: #000;
+   font-size: 20px;
+}
+.writeup-text {
+   color: #000;
+   font-size: 15px;
+}

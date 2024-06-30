@@ -11,7 +11,8 @@
 4       MUHAMMAD ABDULLAHI JA'AFAR NAS/STE/20/1087
           I added a PHP script that logs out a user by ending their session and then redirects them to the login page.
 
-5        SA'AD BABA ABDULLAHI NAS/STE/20/1026
+5        SA'AD BABA ABDULLAHI NAS/STE/20/1026 
+           I wrote a PHP script to register a user. It checks if the user already exists and inserts them into the database if not, redirecting to the login page after registration.
 
         
 6        Abdulkadir Ya'u Abdullahi NAS/STE/20/1105  

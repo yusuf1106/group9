@@ -18,4 +18,5 @@
 6        Abdulkadir Ya'u Abdullahi NAS/STE/20/1105  
           I created a PHP script that starts a session, checks if the admin is logged in, and redirects to the login page if not.
         
- 
+7       ABDULMALIK MUHAMMAD ABDULMALIK NAS/STE/20/1006 
+         i added a PHP script to establish a connection to a MySQL database named user_db using mysqli_connect.
